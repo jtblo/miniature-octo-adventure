@@ -1,0 +1,3 @@
+Which programming language:
+language = [Go, Kotlin, Java, Ruby, Python, Smalltalk, Rust, Swift, JavaScript, COBOL, C];
+Random(language);
